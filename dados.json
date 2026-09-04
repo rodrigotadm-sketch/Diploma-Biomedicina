@@ -91,6 +91,11 @@
         "rotulo": "Pagar taxa na UFPR",
         "url": "https://intranet.ufpr.br/arrecadacao/public/index.jsf",
         "tipo": "secundario"
+      },
+      {
+        "rotulo": "Orientações para solicitação de impressão da RVDD do diploma digital",
+        "url": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2026/09/ORIENTACOES-PARA-SOLICITACAO-DE-IMPRESSAO-DA-RVDD-DO-DIPLOMA-DIGITAL-2.pdf",
+        "tipo": "primario"
       }
     ]
   },
