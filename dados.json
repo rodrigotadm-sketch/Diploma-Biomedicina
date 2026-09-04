@@ -51,7 +51,7 @@
     "botoes": [
       {
         "rotulo": "Orientações completas da Unidade de Diplomas",
-        "url": "./orientacoes-diploma-digital.pdf",
+        "url": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2026/09/orientacoes-diploma-digital-1.pdf",
         "tipo": "primario"
       }
     ]
@@ -131,7 +131,7 @@
       },
       {
         "rotulo": "Consultar orientações completas",
-        "url": "./orientacoes-diploma-digital.pdf",
+        "url": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2026/09/Segunda-Via-diploma-fisico.pdf",
         "tipo": "secundario"
       }
     ]
